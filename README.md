@@ -14,19 +14,6 @@ My long-term goal is to get into university and pursue one of these fields:
 
 I’m using GitHub as a place to document my progress, build real projects, experiment with new technologies, and demonstrate what I can create and learn independently.
 
-💻 What I’m Interested In
-
-* Artificial Intelligence & Local AI
-* Software Development
-* Python & Linux
-* Robotics & Automation
-* Mechanical Systems
-* Electrical & Embedded Systems
-* Space Technology
-* Cybersecurity
-* 3D Design & Development
-* Engineering Projects
-
 🚀 What I’m Building
 
 I enjoy combining software and engineering to create practical systems and experimental projects.
