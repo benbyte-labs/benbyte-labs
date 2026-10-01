@@ -28,7 +28,7 @@ To become an engineer capable of turning ideas into real-world technology.
 
 This GitHub represents my journey — the things I build, the problems I solve, and everything I learn along the way.
 
+
 Learn. Build. Test. Improve. Repeat.
 
-📍 Hungary
-🎓 Future: Mechanical Engineering / Space Engineering / Electrical Engineering
+
